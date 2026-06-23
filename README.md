@@ -128,9 +128,10 @@ A cohesive overview of my coding activity, languages, and contributions, themed 
   Thanks for visiting my profile! Let's build something amazing together 🚀
 
   <br/><br/>
-  <a href="https://github.com/esraaehab333">
+ <!-- <a href="https://github.com/esraaehab333">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </a>
+  -->
   <br/><br/>
   <!--<img src="https://komarev.com/ghpvc/?username=esraaehab333&label=Profile%20Views&color=02569B&style=flat" alt="Profile Views" />-->
 </div>
