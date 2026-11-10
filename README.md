@@ -107,11 +107,6 @@ Here is a selection of the mobile and cross-platform applications I have develop
 A cohesive overview of my coding activity, languages, and contributions, themed to match the Flutter & Dart aesthetic.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=esraaehab333&theme=tokyonight&hide_border=true&layout=compact" alt="Top Languages" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=esraaehab333&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://streak-stats.demolab.com/?user=esraaehab333&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <!--
