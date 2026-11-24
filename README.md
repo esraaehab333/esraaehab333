@@ -121,8 +121,6 @@ A cohesive overview of my coding activity, languages, and contributions, themed 
 
 <div align="center">
   Thanks for visiting my profile! Let's build something amazing together 🚀
-
-  <br/><br/>
  <!-- <a href="https://github.com/esraaehab333">
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
   </a>
